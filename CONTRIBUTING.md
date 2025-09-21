@@ -9,7 +9,7 @@ Thank you for your interest in contributing to this project! Please read the fol
 1. **Fork the repository**: Click the "Fork" button on GitHub to create a copy of the project under your account.
 2. **Clone to your local machine**:
     ```bash
-    git clone https://github.com/<your-username>/github-profile-badges.git
+    git clone https://github.com/<your-username>/github-profile-achievements.git
     ```
 3. **Create a new branch**:
     ```bash
@@ -33,11 +33,11 @@ Thank you for your interest in contributing to this project! Please read the fol
 -   Clearly explain your changes in the Pull Request description.
 -   Follow the project's coding style and guidelines.
 -   Test your code before submitting.
--   For suggestions or bug reports, please open an [Issue](https://github.com/codeprovn/github-profile-badges/issues).
+-   For suggestions or bug reports, please open an [Issue](https://github.com/codeprovn/github-profile-achievements/issues).
 
 ## Contact
 
-If you have questions, join [Discussions](https://github.com/codeprovn/github-profile-badges/discussions) or email: lienhe@code.pro.vn.
+If you have questions, join [Discussions](https://github.com/codeprovn/github-profile-achievements/discussions) or email: lienhe@code.pro.vn.
 
 ---
 
