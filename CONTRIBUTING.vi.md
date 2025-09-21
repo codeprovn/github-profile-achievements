@@ -1,5 +1,7 @@
 # Hướng dẫn đóng góp cho GitHub Profile Badges
 
+[🇺🇸](CONTRIBUTING.md) | 🇻🇳
+
 Cảm ơn bạn đã quan tâm tới việc đóng góp cho dự án này! Vui lòng tham khảo các hướng dẫn sau để bắt đầu.
 
 ---
@@ -46,9 +48,3 @@ Cảm ơn bạn đã quan tâm tới việc đóng góp cho dự án này! Vui l
 ## Liên hệ
 
 Nếu có thắc mắc, hãy liên hệ qua [Discussions](https://github.com/codeprovn/github-profile-achievements/discussions) hoặc email: <lienhe@code.pro.vn>.
-
----
-
-## 🌐 Ngôn ngữ khác
-
-- [🇬🇧 English](CONTRIBUTING.md)

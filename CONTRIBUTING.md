@@ -1,5 +1,7 @@
 # Contributing to GitHub Profile Badges
 
+🇺🇸 | [🇻🇳](./CONTRIBUTING.vi.md)
+
 Thank you for your interest in contributing to this project! Please read the following guidelines to help you get started.
 
 ---
@@ -46,9 +48,3 @@ Thank you for your interest in contributing to this project! Please read the fol
 ## Contact
 
 If you have questions, join [Discussions](https://github.com/codeprovn/github-profile-achievements/discussions) or email: <lienhe@code.pro.vn>.
-
----
-
-## 🌐 Other Languages
-
-- [🇻🇳 Tiếng Việt](CONTRIBUTING.vi.md)
