@@ -1,3 +1,7 @@
+---
+🇺🇸 English version | [🇻🇳 Vietnamese version](./README.vi.md)
+---
+
 ## Introduction
 
 This project aims to compile and present all GitHub profile achievements and badges in a single, easy-to-navigate document. The goal is to help the community quickly find information about each badge, the requirements to earn them, and their tier levels. This project is based on research and inspiration from several well-known open-source repositories.
