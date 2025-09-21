@@ -12,7 +12,7 @@ Dự án này nhằm mục đích tổng hợp và trình bày tất cả các t
 
 ---
 
-## Danh sách các Huy hiệu
+## Danh sách các huy hiệu
 
 Bảng dưới đây liệt kê tất cả các huy hiệu có sẵn trên GitHub, tên của chúng, liệu chúng có thể nhận được hiện tại hay không, và cách để nhận mỗi huy hiệu.
 
@@ -30,7 +30,7 @@ Bảng dưới đây liệt kê tất cả các huy hiệu có sẵn trên GitHu
 | ![Arctic Code Vault Contributor](/images/achievements/default/arctic-code-vault-contributor.png) | Arctic Code Vault Contributor | `❌ Không` | Trước đây có thể nhận bằng cách đóng góp mã nguồn vào các kho lưu trữ trong [Chương trình Lưu trữ 2020](https://archiveprogram.github.com/) |
 | ![Mars 2020 Contributor](/images/achievements/default/mars-2020-contributor.png) | Mars 2020 Contributor | `❌ Không` | Được trao nếu người dùng đã đóng góp mã nguồn vào các kho lưu trữ trong [Nhiệm vụ Mars 2020](https://github.com/readme/nasa-ingenuity-helicopter) |
 
-## Các Cấp Độ Thành Tích
+## Các cấp độ thành tích
 
 Một số thành tích có nhiều cấp độ, bao gồm mặc định, đồng, bạc và vàng. Bảng sau đây mô tả mỗi cấp độ và các yêu cầu tương ứng.
 
@@ -48,9 +48,20 @@ Một số thành tích có nhiều cấp độ, bao gồm mặc định, đồn
 | **Arctic Code Vault Contributor** | <img src="/images/achievements/default/arctic-code-vault-contributor.png" width="60px"><br>Huy hiệu cũ | - | - | - |
 | **Mars 2020 Contributor** | <img src="/images/achievements/default/mars-2020-contributor.png" width="60px"><br>Huy hiệu cũ | - | - | - |
 
+## Màu da thành tích
+
+Một số thành tích trên GitHub hiển thị với các màu da khác nhau, thích ứng với Tùy chọn Màu da Emoji cá nhân của bạn để mang lại trải nghiệm cá nhân hóa và toàn diện hơn.
+
+> Bạn có thể thay đổi Màu da ưa thích của mình bằng cách vào [cài đặt giao diện](https://github.com/settings/appearance).
+
+| Huy hiệu | Tên | Các phiên bản màu da |
+| :-: | :-: | :-: |
+| ![Starstruck](/images/achievements/variants/starstruck/skin-tone-1.png) | Starstruck | <table> <tbody> <tr> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-1.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-2.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-3.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-4.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-5.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-6.png" width="60px"> </td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td> <td align="center">👋🏼</td> <td align="center">👋🏽</td> <td align="center">👋🏾</td> <td align="center">👋🏿</td> </tr> </tbody></table> |
+| ![Quickdraw](/images/achievements/variants/quickdraw/skin-tone-1.png) | Quickdraw | <table> <tbody> <tr> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-1.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-2.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-3.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-4.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-5.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-6.png" width="60px"> </td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td> <td align="center">👋🏼</td> <td align="center">👋🏽</td> <td align="center">👋🏾</td> <td align="center">👋🏿</td> </tr> </tbody></table> |
+
 ---
 
-## Mục đích Dự án
+## Mục đích dự án
 
 Dự án này dành cho mục đích giáo dục và tham khảo, giúp người dùng GitHub hiểu rõ hơn về hệ thống huy hiệu và thành tích. Nếu bạn phát hiện bất kỳ thông tin không chính xác hoặc thiếu sót nào, vui lòng đóng góp hoặc mở một issue để giúp cải thiện tài liệu này.
 
