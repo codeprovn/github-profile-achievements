@@ -1,12 +1,14 @@
----
-🇺🇸 English version | [🇻🇳 Vietnamese version](./README.vi.md)
----
+# GitHub Profile Achievements
+
+[🇺🇸](./README.md) | [🇻🇳](./README.vi.md)
+
+> Complete guide to GitHub profile badges and achievements. Learn how to earn each badge and their tier requirements.
 
 ## Introduction
 
 This project aims to compile and present all GitHub profile achievements and badges in a single, easy-to-navigate document. The goal is to help the community quickly find information about each badge, the requirements to earn them, and their tier levels. This project is based on research and inspiration from several well-known open-source repositories.
 
-> **Note:** This is an informational resource, not an official list provided by GitHub. Badge requirements and achievement details may change as GitHub updates its system.
+> **⚠️ Note:** This is an informational resource, not an official list provided by GitHub. Badge requirements and achievement details may change as GitHub updates its system.
 
 ---
 
