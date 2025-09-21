@@ -2,7 +2,7 @@
 
 | Badge | Name | Status | How to get |
 | --- | --- | --- | --- |
-| ![Heart On Your Sleeve](/images/achievements/default/heart-on-your-sleeve.png) | Heart On Your Sleeve | `🔜 Testing` | User cans obtain this badge by reacting to something on GitHub with a ❤️ emoji |
+| ![Heart On Your Sleeve](/images/achievements/default/heart-on-your-sleeve.png) | Heart On Your Sleeve | `🔜 Testing` | User can obtain this badge by reacting to something on GitHub with a ❤️ emoji |
 | ![Open Sourcerer](/images/achievements/default/open-sourcerer.png) | Open Sourcerer |  `🔜 Testing` | Can be obtained if a user had Pull Requests merged in more than 1 public repository |
 | ![Starstruck](/images/achievements/default/starstruck.png) | Starstruck | `✅ Available` | This badge is given to someone when one of their repositories gets 16 stars. |
 | ![Quickdraw](/images/achievements/default/quickdraw.png) | Quickdraw | `✅ Available` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) |
