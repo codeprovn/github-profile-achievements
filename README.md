@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | ![Heart On Your Sleeve](/images/achievements/default/heart-on-your-sleeve.png) | Heart On Your Sleeve | `🔜 Testing` | User cans obtain this badge by reacting to something on GitHub with a ❤️ emoji |
 | ![Open Sourcerer](/images/achievements/default/open-sourcerer.png) | Open Sourcerer |  `🔜 Testing` | Can be obtained if a user had Pull Requests merged in more than 1 public repository |
-| ![Starstruck](/images/achievements/default/starstruck.png) | Starstruck | `✅ Available` | This badge is given to someone when one of their repository's gets 16 stars. |
+| ![Starstruck](/images/achievements/default/starstruck.png) | Starstruck | `✅ Available` | This badge is given to someone when one of their repositories gets 16 stars. |
 | ![Quickdraw](/images/achievements/default/quickdraw.png) | Quickdraw | `✅ Available` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) |
 | ![Pair Extraordinaire](/images/achievements/default/pair-extraordinaire.png) | Pair Extraordinaire | `✅ Available` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) |
 | ![Pull Shark](/images/achievements/default/pull-shark.png) | Pull Shark | `✅ Available` | You can get this badge by merging 2 pull requests. |
