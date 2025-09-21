@@ -1,16 +1,18 @@
 # GitHub Profile Achievements
 
-| Badge | Name | Status | How to get |
+| Badge | Name | Earnable? | How to get |
 | --- | --- | --- | --- |
 | ![Heart On Your Sleeve](/images/achievements/default/heart-on-your-sleeve.png) | Heart On Your Sleeve | `🔜 Testing` | User can obtain this badge by reacting to something on GitHub with a ❤️ emoji |
 | ![Open Sourcerer](/images/achievements/default/open-sourcerer.png) | Open Sourcerer |  `🔜 Testing` | Can be obtained if a user had Pull Requests merged in more than 1 public repository |
-| ![Starstruck](/images/achievements/default/starstruck.png) | Starstruck | `✅ Available` | This badge is given to someone when one of their repositories gets 16 stars. |
-| ![Quickdraw](/images/achievements/default/quickdraw.png) | Quickdraw | `✅ Available` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) |
-| ![Pair Extraordinaire](/images/achievements/default/pair-extraordinaire.png) | Pair Extraordinaire | `✅ Available` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) |
-| ![Pull Shark](/images/achievements/default/pull-shark.png) | Pull Shark | `✅ Available` | You can get this badge by merging 2 pull requests. |
-| ![Galaxy Brain](/images/achievements/default/galaxy-brain.png) | Galaxy Brain | `✅ Available` | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. |
-| ![YOLO](/images/achievements/default/yolo.png) | YOLO | `✅ Available` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) |
-| ![Public Sponsor](/images/achievements/default/public-sponsor.png) | Public Sponsor | `✅ Available` | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors) |
+| ![Starstruck](/images/achievements/default/starstruck.png) | Starstruck | `✅ Yes` | This badge is given to someone when one of their repositories gets 16 stars. |
+| ![Quickdraw](/images/achievements/default/quickdraw.png) | Quickdraw | `✅ Yes` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) |
+| ![Pair Extraordinaire](/images/achievements/default/pair-extraordinaire.png) | Pair Extraordinaire | `✅ Yes` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) |
+| ![Pull Shark](/images/achievements/default/pull-shark.png) | Pull Shark | `✅ Yes` | You can get this badge by merging 2 pull requests. |
+| ![Galaxy Brain](/images/achievements/default/galaxy-brain.png) | Galaxy Brain | `✅ Yes` | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. |
+| ![YOLO](/images/achievements/default/yolo.png) | YOLO | `✅ Yes` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) |
+| ![Public Sponsor](/images/achievements/default/public-sponsor.png) | Public Sponsor | `✅ Yes` | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors) |
+| ![Arctic Code Vault Contributor](/images/achievements/default/arctic-code-vault-contributor.png) | Arctic Code Vault Contributor | `❌ No` | Previously obtainable by contributing code to repositories in the [2020 Archive Program](https://archiveprogram.github.com/) |
+| ![Mars 2020 Contributor](/images/achievements/default/mars-2020-contributor.png) | Mars 2020 Contributor | `❌ No` | Given if a user contributed code to repositories in the [Mars 2020 Mission](https://github.com/readme/nasa-ingenuity-helicopter) |
 
 | Achievement | Default | Bronze | Silver | Gold |
 | :-: | :-: | :-: | :-: | :-: |
