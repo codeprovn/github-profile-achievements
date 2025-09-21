@@ -1,4 +1,14 @@
-# GitHub Profile Achievements
+## Introduction
+
+This project aims to compile and present all GitHub profile achievements and badges in a single, easy-to-navigate document. The goal is to help the community quickly find information about each badge, the requirements to earn them, and their tier levels. This project is based on research and inspiration from several well-known open-source repositories.
+
+> **Note:** This is an informational resource, not an official list provided by GitHub. Badge requirements and achievement details may change as GitHub updates its system.
+
+---
+
+## List of Badges
+
+The table below lists all available GitHub badges, their names, whether they can currently be earned, and how to obtain each badge.
 
 | Badge | Name | Earnable? | How to get |
 | --- | --- | --- | --- |
@@ -14,6 +24,10 @@
 | ![Arctic Code Vault Contributor](/images/achievements/default/arctic-code-vault-contributor.png) | Arctic Code Vault Contributor | `❌ No` | Previously obtainable by contributing code to repositories in the [2020 Archive Program](https://archiveprogram.github.com/) |
 | ![Mars 2020 Contributor](/images/achievements/default/mars-2020-contributor.png) | Mars 2020 Contributor | `❌ No` | Given if a user contributed code to repositories in the [Mars 2020 Mission](https://github.com/readme/nasa-ingenuity-helicopter) |
 
+## Achievement Tiers
+
+Some achievements have multiple tiers, including default, bronze, silver, and gold. The following table describes each tier and its corresponding requirements.
+
 | Achievement | Default | Bronze | Silver | Gold |
 | :-: | :-: | :-: | :-: | :-: |
 | **Heart On Your Sleeve** | <img src="/images/achievements/default/heart-on-your-sleeve.png" width="60px"><br>(?) | <img src="/images/achievements/tiers/heart-on-your-sleeve/bronze.png" width="60px"><br>(?) | <img src="/images/achievements/tiers/heart-on-your-sleeve/silver.png" width="60px"><br>(?) | <img src="/images/achievements/tiers/heart-on-your-sleeve/gold.png" width="60px"><br>(?) |
@@ -27,3 +41,19 @@
 | **Public Sponsor** | <img src="/images/achievements/default/public-sponsor.png" width="60px"><br>1 sponsorship  | - | - | - |
 | **Arctic Code Vault Contributor** | <img src="/images/achievements/default/arctic-code-vault-contributor.png" width="60px"><br>Legacy badge | - | - | - |
 | **Mars 2020 Contributor** | <img src="/images/achievements/default/mars-2020-contributor.png" width="60px"><br>Legacy badge | - | - | - |
+
+---
+
+## Project Purpose
+
+This project is intended for educational and reference purposes, helping GitHub users better understand the badge and achievement system. If you spot any inaccuracies or missing information, feel free to contribute or open an issue to help improve this resource.
+
+## References
+
+This project was developed by referencing and learning from the following outstanding community projects:
+
+- [Thinkright20/Profile-Badges](https://github.com/Thinkright20/Profile-Badges) – Comprehensive list of badges, tiers, and skin tone variations.
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) – Collection of images, details on achievements, tiers, and variants.
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements/) – List of achievements, update history, inspiration and useful links.
+
+> Special thanks to the authors and community contributors for providing information, images, content, and inspiration for this project.
