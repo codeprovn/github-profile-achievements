@@ -9,7 +9,7 @@ Cảm ơn bạn đã quan tâm tới việc đóng góp cho dự án này! Vui l
 1. **Fork repository**: Nhấn nút "Fork" trên GitHub để tạo một bản sao của dự án về tài khoản của bạn.
 2. **Clone về máy**:
     ```bash
-    git clone https://github.com/<ten-tai-khoan-cua-ban>/github-profile-badges.git
+    git clone https://github.com/<ten-tai-khoan-cua-ban>/github-profile-achievements.git
     ```
 3. **Tạo nhánh mới**:
     ```bash
@@ -33,11 +33,11 @@ Cảm ơn bạn đã quan tâm tới việc đóng góp cho dự án này! Vui l
 -   Giải thích rõ ràng về các thay đổi trong mô tả Pull Request.
 -   Tuân thủ phong cách mã nguồn và quy tắc của dự án.
 -   Kiểm tra kỹ mã nguồn trước khi gửi Pull Request.
--   Nếu muốn đóng góp ý tưởng hoặc báo lỗi, vui lòng mở một [Issue](https://github.com/codeprovn/github-profile-badges/issues).
+-   Nếu muốn đóng góp ý tưởng hoặc báo lỗi, vui lòng mở một [Issue](https://github.com/codeprovn/github-profile-achievements/issues).
 
 ## Liên hệ
 
-Nếu có thắc mắc, hãy liên hệ qua [Discussions](https://github.com/codeprovn/github-profile-badges/discussions) hoặc email: lienhe@code.pro.vn.
+Nếu có thắc mắc, hãy liên hệ qua [Discussions](https://github.com/codeprovn/github-profile-achievements/discussions) hoặc email: lienhe@code.pro.vn.
 
 ---
 
