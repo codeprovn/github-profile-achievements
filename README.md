@@ -48,6 +48,17 @@ Some achievements have multiple tiers, including default, bronze, silver, and go
 | **Arctic Code Vault Contributor** | <img src="/images/achievements/default/arctic-code-vault-contributor.png" width="60px"><br>Legacy badge | - | - | - |
 | **Mars 2020 Contributor** | <img src="/images/achievements/default/mars-2020-contributor.png" width="60px"><br>Legacy badge | - | - | - |
 
+## Achievement Skin Tone
+
+Several GitHub achievements display with different skin tones, adapting to your personal Emoji Skin Tone Preference for a more inclusive and personalized experience.
+
+> You can change your preferred Skin Tone by going to the [appearance settings](https://github.com/settings/appearance).
+
+| Badge | Name | Skin Tone Versions |
+| :-: | :-: | :-: |
+| ![Starstruck](/images/achievements/variants/starstruck/skin-tone-1.png) | Starstruck | <table> <tbody> <tr> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-1.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-2.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-3.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-4.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-5.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/starstruck/skin-tone-6.png" width="60px"> </td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td> <td align="center">👋🏼</td> <td align="center">👋🏽</td> <td align="center">👋🏾</td> <td align="center">👋🏿</td> </tr> </tbody></table> |
+| ![Quickdraw](/images/achievements//variants/quickdraw/skin-tone-1.png) | Quickdraw | <table> <tbody> <tr> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-1.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-2.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-3.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-4.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-5.png" width="60px"> </td> <td align="center"> <img src="/images/achievements/variants/quickdraw/skin-tone-6.png" width="60px"> </td> </tr> <tr> <td align="center">👋</td> <td align="center">👋🏻</td> <td align="center">👋🏼</td> <td align="center">👋🏽</td> <td align="center">👋🏾</td> <td align="center">👋🏿</td> </tr> </tbody></table> |
+
 ---
 
 ## Project Purpose
