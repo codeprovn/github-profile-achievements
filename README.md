@@ -1,6 +1,6 @@
 # GitHub Profile Achievements
 
-[🇺🇸](./README.md) | [🇻🇳](./README.vi.md)
+🇺🇸 | [🇻🇳](./README.vi.md)
 
 > Complete guide to GitHub profile badges and achievements. Learn how to earn each badge and their tier requirements.
 
